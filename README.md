@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Svelte, TypeScript**
 
-- 📫 How to reach me **<a href="https://www.linkedin.com/in/daniel-james-6a9928173/">LinkedIn</a>**
+- 📫 Connect with me on **<a href="https://www.linkedin.com/in/daniel-james-6a9928173/">LinkedIn</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
