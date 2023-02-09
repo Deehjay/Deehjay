@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
-<h3 align="center">An aspiring developer and recent graduate of award-winning bootcamp Northcoders, from Nottingham, UK!</h3>
+<h3 align="center">Full-stack Junior Developer and recent graduate of award-winning bootcamp Northcoders, from Nottingham, UK!</h3>
 
 - 🔭 I’m looking for **a Junior Development Role**
 
-- 🌱 I’m currently learning **Svelte, TypeScript**
+- 🌱 I’m currently learning **Vue.js**
 
 - 📫 Connect with me on **<a href="https://www.linkedin.com/in/daniel-james-6a9928173/">LinkedIn</a>**
 
