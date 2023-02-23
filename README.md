@@ -3,7 +3,7 @@
 
 - 🔭 I’m looking for **a Junior Development Role**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **C#, .NET 6**
 
 - 📫 Connect with me on **<a href="https://www.linkedin.com/in/daniel-james-6a9928173/">LinkedIn</a>**
 
